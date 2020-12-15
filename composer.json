@@ -25,7 +25,7 @@
         "eventsauce/eventsauce": "^0.8.2",
         "illuminate/bus": "^8.0",
         "illuminate/container": "^8.0",
-        "illuminate/queue": "^8.0",
+        "illuminate/queue": "^7.0|^8.0",
         "illuminate/support": "^8.0",
         "ramsey/uuid": "^3.8|^4.0"
     },
